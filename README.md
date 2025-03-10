@@ -30,8 +30,8 @@ This program transforms images as follows:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chessboard-detector.git
-   cd chessboard-detector
+   git clone https://github.com/otoua046/ChessboardDetector.git
+   cd ChessboardDetector
    ```
 
 2. **Create a virtual environment (optional but recommended):**
@@ -59,8 +59,8 @@ This program transforms images as follows:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/chessboard-detector.git
-   cd chessboard-detector
+   git clone https://github.com/otoua046/ChessboardDetector.git
+   cd ChessboardDetector
    ```
 
 2. **Create a new Conda environment:**
