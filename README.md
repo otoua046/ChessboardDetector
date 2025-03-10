@@ -15,11 +15,12 @@ This program transforms images as follows:
 
 **Input Image:**
 
+![IMG_2243](https://github.com/user-attachments/assets/fc5c3fab-2998-4063-b977-5171ae74eea4)
 
 
 **Output Image:**
 
-
+![IMG_2243_cropped jpg 17-30-33-664](https://github.com/user-attachments/assets/8c668d15-49a1-4037-bfb6-f6f09a2a698c)
 
 
 ## Installation
