@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Set the paths for your input and output directories.
+INPUT_DIR="/Users/samtouahri/Projects/ChessboardDetector/input_images"
+OUTPUT_DIR="/Users/samtouahri/Projects/ChessboardDetector/output_images"
+
+# Name of the Python script file.
+SCRIPT_NAME="script.py"
+
+# Run the Python script with the specified directories.
+python "$SCRIPT_NAME" --input_dir "$INPUT_DIR" --output_dir "$OUTPUT_DIR"
