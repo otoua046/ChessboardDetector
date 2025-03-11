@@ -6,7 +6,6 @@ This repository contains a Python script that detects the outer boundary of a ch
 
 - **Chessboard detection:** Uses contour detection to locate the largest quadrilateral (assumed to be the chessboard border).
 - **Perspective warping:** Warps the detected board to a top-down view with a resolution of 800×800 pixels.
-- **Multi-format support:** Processes images with extensions such as JPG, JPEG, PNG, BMP.
 - **Command-line interface:** Easily process multiple images from an input directory and save them to an output directory.
 
 ## Input and Output Example
