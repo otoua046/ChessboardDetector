@@ -1,6 +1,6 @@
 # Chessboard Detector and Warper
 
-This repository contains a Python script that detects the outer boundary of a chessboard in an image using contour detection, applies a perspective transform to obtain a top-down view, and saves the output as an 800×800 JPEG file. It supports common image formats and is designed to help with image preprocessing tasks for chessboard images.
+This repository contains a Python script that detects the outer boundary of a chessboard in an image using contour detection, applies a perspective transform to obtain a top-down view, and saves the output as an 800×800 JPEG file. It supports common image formats and is designed to help with image preprocessing and machine learning tasks for chessboard images.
 
 ## Features
 
